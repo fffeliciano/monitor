@@ -1,0 +1,166 @@
+{
+  "build": "py38haa95532_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\FernandoFeliciano\\anaconda3\\pkgs\\pydispatcher-2.0.5-py38haa95532_2",
+  "features": "",
+  "files": [
+    "Lib/site-packages/PyDispatcher-2.0.5-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/PyDispatcher-2.0.5-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/PyDispatcher-2.0.5-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/PyDispatcher-2.0.5-py3.8.egg-info/top_level.txt",
+    "Lib/site-packages/pydispatch/__init__.py",
+    "Lib/site-packages/pydispatch/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/dispatcher.cpython-38.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/errors.cpython-38.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/robust.cpython-38.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/robustapply.cpython-38.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/saferef.cpython-38.pyc",
+    "Lib/site-packages/pydispatch/dispatcher.py",
+    "Lib/site-packages/pydispatch/errors.py",
+    "Lib/site-packages/pydispatch/robust.py",
+    "Lib/site-packages/pydispatch/robustapply.py",
+    "Lib/site-packages/pydispatch/saferef.py",
+    ".nonadmin"
+  ],
+  "fn": "pydispatcher-2.0.5-py38haa95532_2.conda",
+  "legacy_bz2_md5": "6d84bbeea3637e410674796797f7baee",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\FernandoFeliciano\\anaconda3\\pkgs\\pydispatcher-2.0.5-py38haa95532_2",
+    "type": 1
+  },
+  "md5": "ef999f9d12f8a6b3330168dc7225b74b",
+  "name": "pydispatcher",
+  "package_tarball_full_path": "C:\\Users\\FernandoFeliciano\\anaconda3\\pkgs\\pydispatcher-2.0.5-py38haa95532_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/PyDispatcher-2.0.5-py3.8.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "d306102a4ae4a40e6b283b6e6b320641f300c76af46ccce6e76f822ecb973034",
+        "sha256_in_prefix": "d306102a4ae4a40e6b283b6e6b320641f300c76af46ccce6e76f822ecb973034",
+        "size_in_bytes": 1277
+      },
+      {
+        "_path": "Lib/site-packages/PyDispatcher-2.0.5-py3.8.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "625986eba7fe21f68bf5045d979e77141bdab43cf67063545895fd8e7f4fae2c",
+        "sha256_in_prefix": "625986eba7fe21f68bf5045d979e77141bdab43cf67063545895fd8e7f4fae2c",
+        "size_in_bytes": 918
+      },
+      {
+        "_path": "Lib/site-packages/PyDispatcher-2.0.5-py3.8.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/PyDispatcher-2.0.5-py3.8.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "056ebd80cd88c883df164f09d77791c31cd5962734e3aae8137587e5bc9ae412",
+        "sha256_in_prefix": "056ebd80cd88c883df164f09d77791c31cd5962734e3aae8137587e5bc9ae412",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7ab8879874217a6f6447d29597a4c351abd84529b939197f89dbeea9c6ad9c9c",
+        "sha256_in_prefix": "7ab8879874217a6f6447d29597a4c351abd84529b939197f89dbeea9c6ad9c9c",
+        "size_in_bytes": 170
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "bf825bc9e5589c5a0f11a2700abcc761ffbbaf1bb63791926ddb5e08a2f43e34",
+        "sha256_in_prefix": "bf825bc9e5589c5a0f11a2700abcc761ffbbaf1bb63791926ddb5e08a2f43e34",
+        "size_in_bytes": 318
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/dispatcher.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "afbb4386bcb5b4ef055de86733d45e96cc0137da7880af0d6e8c1287f907c2ad",
+        "sha256_in_prefix": "afbb4386bcb5b4ef055de86733d45e96cc0137da7880af0d6e8c1287f907c2ad",
+        "size_in_bytes": 13708
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/errors.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "8ea949224931877c36cb37b76621d22e6b759c60842eedfdb02f02d23380b4a5",
+        "sha256_in_prefix": "8ea949224931877c36cb37b76621d22e6b759c60842eedfdb02f02d23380b4a5",
+        "size_in_bytes": 821
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/robust.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "843e97134e3730aba616bd32b7369f83b4b64575d2b0f88047851a06adf437e7",
+        "sha256_in_prefix": "843e97134e3730aba616bd32b7369f83b4b64575d2b0f88047851a06adf437e7",
+        "size_in_bytes": 1973
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/robustapply.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "cf6d772e3fb3b0e25e4ea7de9ff849aff8539187ea7df3622a84da33e57f0ee0",
+        "sha256_in_prefix": "cf6d772e3fb3b0e25e4ea7de9ff849aff8539187ea7df3622a84da33e57f0ee0",
+        "size_in_bytes": 1763
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/saferef.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "3f72b029f4e2f7296785709bbb29ec1994800e0211005fc7f0774d1c1b266ed2",
+        "sha256_in_prefix": "3f72b029f4e2f7296785709bbb29ec1994800e0211005fc7f0774d1c1b266ed2",
+        "size_in_bytes": 7038
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/dispatcher.py",
+        "path_type": "hardlink",
+        "sha256": "bc8e84b239fa9aa7f704b22d946db676d5458462e7cd6ed5b93254dff039f584",
+        "sha256_in_prefix": "bc8e84b239fa9aa7f704b22d946db676d5458462e7cd6ed5b93254dff039f584",
+        "size_in_bytes": 16746
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/errors.py",
+        "path_type": "hardlink",
+        "sha256": "98369fb16102b42d0e14ba6024fe4237672ce3ef72f11b64e313b8e115421b3f",
+        "sha256_in_prefix": "98369fb16102b42d0e14ba6024fe4237672ce3ef72f11b64e313b8e115421b3f",
+        "size_in_bytes": 371
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/robust.py",
+        "path_type": "hardlink",
+        "sha256": "f3fb07f3bdc00e6632a7a5074cbff81209c674c9096f7a6e1e957c36f7e18e3e",
+        "sha256_in_prefix": "f3fb07f3bdc00e6632a7a5074cbff81209c674c9096f7a6e1e957c36f7e18e3e",
+        "size_in_bytes": 2083
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/robustapply.py",
+        "path_type": "hardlink",
+        "sha256": "813b7811c89c21fd275df396cb2092484dc02afaea82cdca70c29e1c986ea170",
+        "sha256_in_prefix": "813b7811c89c21fd275df396cb2092484dc02afaea82cdca70c29e1c986ea170",
+        "size_in_bytes": 2085
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/saferef.py",
+        "path_type": "hardlink",
+        "sha256": "b673008adc866c07c1f73ed5bc2e136ca41650a2c0db38d79e613300645902bf",
+        "sha256_in_prefix": "b673008adc866c07c1f73ed5bc2e136ca41650a2c0db38d79e613300645902bf",
+        "size_in_bytes": 7374
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0722189e8ab4b8ea31f3b78e3ae4447c51197232733f7e2a338bb156b3931098",
+  "size": 20748,
+  "subdir": "win-64",
+  "timestamp": 1646636940103,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pydispatcher-2.0.5-py38haa95532_2.conda",
+  "version": "2.0.5"
+}
